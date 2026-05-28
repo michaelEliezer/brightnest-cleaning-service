@@ -1,26 +1,27 @@
 # BrightNest — Cleaning Service Website
 
-A responsive cleaning service website built with HTML, CSS, and JavaScript.
+A responsive cleaning service website concept built with HTML, CSS, and JavaScript.
 
-## How to run
+## Live Site
 
-1. Extract the ZIP.
-2. Open the folder in VS Code.
-3. Right-click `index.html`.
-4. Choose **Open with Live Server**.
+Coming soon
 
-## What this project demonstrates
+## Built With
 
-- Local service business website
-- Conversion-focused hero section
-- Services, pricing, reviews, process, and quote form
-- Responsive navigation and mobile menu
-- Smooth scroll with sticky navbar offset
-- Scroll reveal animations
-- Netlify-ready quote request form
+* HTML
+* CSS
+* JavaScript
 
-## Portfolio description
+## Features
 
-**BrightNest — Cleaning Service Website**
+* Responsive business website layout
+* Mobile navigation
+* Smooth scrolling
+* Service cards
+* Pricing section
+* Review section
+* Quote request form
 
-A responsive local cleaning service website concept with conversion-focused sections, pricing cards, service packages, smooth scrolling, scroll animations, mobile navigation, and a Netlify-ready quote request form.
+## About
+
+This project was built as a local service business website concept focused on clear information and simple booking.
