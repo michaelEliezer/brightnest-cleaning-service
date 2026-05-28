@@ -9,6 +9,10 @@ A responsive cleaning service website built with HTML, CSS, and JavaScript.
 3. Right-click `index.html`.
 4. Choose **Open with Live Server**.
 
+## Live Site
+
+https://michaeleliezer.github.io/brightnest-cleaning-service/
+
 ## What this project demonstrates
 
 - Local service business website
